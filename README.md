@@ -29,7 +29,7 @@ A simple and powerful web app to **scrape website content** and export it to **E
 ## 📦 How to Run
 
 ```bash
-git clone https://github.com//web-data-scraper.git
-cd web-data-scraper
+git clone https://github.com/HeebaShaikh0705/Website-Data-Scraper.git
+cd Website-Data-Scraper
 pip install -r requirements.txt
 python app.py
