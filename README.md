@@ -2,7 +2,7 @@
 
 A simple and powerful web app to **scrape website content** and export it to **Excel** – built with Python, Dash, and BeautifulSoup.
 
-![screenshot](your-screenshot-url-if-you-have-one)
+![screenshot](WebDataScraper.png)
 
 ## 🚀 Features
 
